@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @FrazKhan1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-FrazKhan1/FrazKhan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in building scalable and innovative web applications.
+- 🌱 I’m currently exploring advanced machine learning and deep learning concepts.
+- 💞️ I’m looking to collaborate on MERN stack projects, Next.js applications, and TypeScript-based solutions.
+- 🚀 My expertise includes crafting efficient front-end designs and robust back-end systems.
+- 🌟 Passionate about continuous learning and keeping up with emerging technologies.
+- 💡 Always excited to tackle challenging problems and deliver impactful solutions.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/frazkhan284/) | [Email](mailto:fraz9838@gmail.com)
